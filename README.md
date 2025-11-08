@@ -1,4 +1,5 @@
 # 🏗️ Analyse d’un mât haubané à deux niveaux
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Ce projet présente une modélisation complète d’un mât triangulé en aluminium soumis à des efforts de vent, stabilisé par haubans à deux niveaux. Il combine calcul analytique, visualisation 2D, décomposition vectorielle 3D et vérification de flambage.
 
